@@ -1,37 +1,21 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "THE GREAT EXFOLIATION",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "A dark comedic satirical novella",
     "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "synopsis": "A dark comedic satirical novella",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
-    },
-        {
-      "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
-    },
-        {
-      "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "slug": "THE GREAT EXFOLIATION",
+      "title": "THE GREAT EXFOLIATION",
+      "subtitle": "Novella",
+      "file": "books/THE GREAT EXFOLIATION.txt",
+      "setting": "Dystopia"
     }
   ]
 }
